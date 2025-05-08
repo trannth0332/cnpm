@@ -1,5 +1,5 @@
 # cnpm
-using System;
+using cnpm;
 
 namespace HelloWorld
 {
